@@ -12,5 +12,5 @@ If the name of the topic is not specified, the topic name is going to be determi
 
 To see the example run:
 
-roslaunch gazebo_worlds load_warehouse.launch
+>> roslaunch gazebo_worlds load_warehouse.launch
 
