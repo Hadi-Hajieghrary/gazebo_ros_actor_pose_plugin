@@ -8,7 +8,7 @@ The plugin should be added under each of the "actor" tags in the word file:
         <updateRate>10</updateRate>
       </plugin>
       
-In the topic is not specified, the topic name is going to be determined as <actor name>_pose.
+If the name of the topic is not specified, the topic name is going to be determined as <actor name>_pose.
 
 To see the example run:
 
